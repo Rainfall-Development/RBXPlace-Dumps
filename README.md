@@ -6,5 +6,4 @@ relies on Server Scripts to operate usually fail when dumped into local .rbxlx f
 # Am I allowed to take them for personal use?
 As long as you keep for yourself (comply with license if you're releasing it commercially), you're free to take dumped games for personal usage.
 # License
-This source code is licensed under GNU General Public License v3.0, which means you can redistribute copies of the source code, use our source code for commercial use
-as long as you provide your users with the same source you recieved from us.
+This repository is licensed under GNU General Public License v3.0, which means you can redistribute copies of the files contained in the repository, use our dumps for commercial use as long as you provide your users with the same source you recieved from us.
